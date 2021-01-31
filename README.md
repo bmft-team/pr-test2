@@ -3,3 +3,4 @@
 1.bmft.team: create new branch dev
 2.bmft.team: test ssh key
 3.bmft.team: test no account and password
+4.bmft.team: update readme.md,befor dengjiawen push code
